@@ -33,7 +33,7 @@ docker volume create --name=dev-pgdata
 Run the tests:
 
 ```shell
-# for fake-s3
+# for fake-s3. 
 docker-compose up -d
 make tests
 ```
@@ -45,6 +45,10 @@ docker-compose up -d
 
 # use direnv + .envrc to ensure local configuration is set
 make run
+
+#Once the application has been deployed locally or hosted on a AWS, we van run API tests and E2E tests. These tests are run without mocks and on actual system.
+make apitests
+make e2etests
 ```
 
 In another shell (requires curl and [jq](https://stedolan.github.io/jq/)):
