@@ -40,6 +40,12 @@ tests: lint unittests
 unittests:
 	poetry run pytest -vv tests/unit
 
+apitests:
+   poetry run pytest -vv tests/API_Tests
+
+e2etests:
+    poetry run pytest -vv tests/E2E_Tests
+
 update-snapshots:
 	poetry run pytest tests/unit -v --snapshot-update --allow-snapshot-deletion
 
