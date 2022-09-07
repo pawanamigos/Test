@@ -4,6 +4,7 @@ from tests.API_Tests.Utils import convert_images
 import os
 from jsonschema import validate
 
+#Had issues to start up a local server. SO have cretaed a placeholder for the endpoints and access keys. A few sample smoke tests have been added and is expected to run without mocks and on a real system
 image_update_endpoint = ""
 images_endpoint = ""
 API_Access_Key = ""
@@ -119,7 +120,7 @@ def test_verify_total_images_uploaded():
 
 def test_list_all_file_names():
     for filename in os.listdir(converted_image_folder):
-            image_url = images_endpoint+ "/" +filename
+            image_url = images_endpoint+ "/" +filename   #Builds an URI for each uploaded image. Note that file name might have to be parsed depending on how the file name is used in the URI
             try:
                 response = requests.post(image_url, auth=(API_Access_Key)).json()
                 print(response['filename'])
@@ -133,7 +134,7 @@ def test_list_all_file_names():
 
 def test_get_all_image_tags():
     for filename in os.listdir(converted_image_folder):
-        image_url = images_endpoint + "/" + filename
+        image_url = images_endpoint + "/" + filename  #Builds an URI for each uploaded image. Note that file name might have to be parsed depending on how the file name is used in the URI
         try:
             response = requests.post(image_url, auth=(API_Access_Key)).json()
             print(response['tags'][0])
