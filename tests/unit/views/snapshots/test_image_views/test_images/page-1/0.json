@@ -26,7 +26,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-1.dcm?AWSAccessKeyId=testing&Signature=1ZSGjahLCI6ApxjP33zSvVZAjz0%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-1.dcm?AWSAccessKeyId=testing&Signature=1ZSGjahLCI6ApxjP33zSvVZAjz0%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -49,7 +49,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-2.dcm?AWSAccessKeyId=testing&Signature=v0W3yLcBdrQjP%2B0l1b5IHxBEWPw%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-2.dcm?AWSAccessKeyId=testing&Signature=v0W3yLcBdrQjP%2B0l1b5IHxBEWPw%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -72,7 +72,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-3.dcm?AWSAccessKeyId=testing&Signature=tu%2F353XdRhXYu0m9FmzUOV5EFJk%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-3.dcm?AWSAccessKeyId=testing&Signature=tu%2F353XdRhXYu0m9FmzUOV5EFJk%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -95,7 +95,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-4.dcm?AWSAccessKeyId=testing&Signature=YORZZOmte7OqvG3NbWP5NUD6QnA%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-4.dcm?AWSAccessKeyId=testing&Signature=YORZZOmte7OqvG3NbWP5NUD6QnA%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -118,7 +118,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-5.dcm?AWSAccessKeyId=testing&Signature=gn2Wojqv86IiyOKwnzuaR1aAqL8%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-5.dcm?AWSAccessKeyId=testing&Signature=gn2Wojqv86IiyOKwnzuaR1aAqL8%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -141,7 +141,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-6.dcm?AWSAccessKeyId=testing&Signature=lYJqJ0MiZyXO%2FOtBM%2BpmDqMFGco%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-6.dcm?AWSAccessKeyId=testing&Signature=lYJqJ0MiZyXO%2FOtBM%2BpmDqMFGco%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -164,7 +164,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-7.dcm?AWSAccessKeyId=testing&Signature=X1DsyV8PWMafnWVQM4zy%2FhCv8r0%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-7.dcm?AWSAccessKeyId=testing&Signature=X1DsyV8PWMafnWVQM4zy%2FhCv8r0%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -187,7 +187,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-8.dcm?AWSAccessKeyId=testing&Signature=TS5I3rwAN24x%2F2cEYLbwNfbB%2BEY%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-8.dcm?AWSAccessKeyId=testing&Signature=TS5I3rwAN24x%2F2cEYLbwNfbB%2BEY%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -210,7 +210,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-9.dcm?AWSAccessKeyId=testing&Signature=R17eAUS547sQv57lYcm2DZp9Dqc%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-9.dcm?AWSAccessKeyId=testing&Signature=R17eAUS547sQv57lYcm2DZp9Dqc%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -233,7 +233,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-10.dcm?AWSAccessKeyId=testing&Signature=2TiXxbErsy4bCbDb7xil3XfAIKY%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-10.dcm?AWSAccessKeyId=testing&Signature=2TiXxbErsy4bCbDb7xil3XfAIKY%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -256,7 +256,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-11.dcm?AWSAccessKeyId=testing&Signature=n5p472%2Fo9jMFW2iRlM0UiBl3bxg%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-11.dcm?AWSAccessKeyId=testing&Signature=n5p472%2Fo9jMFW2iRlM0UiBl3bxg%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -279,7 +279,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-12.dcm?AWSAccessKeyId=testing&Signature=tOLk9cOKRt0ZEkP%2B4pYrr%2Fc57RI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-12.dcm?AWSAccessKeyId=testing&Signature=tOLk9cOKRt0ZEkP%2B4pYrr%2Fc57RI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -302,7 +302,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-13.dcm?AWSAccessKeyId=testing&Signature=vs2LuUmciQmiEuWKzcMYMTE%2FXYU%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-13.dcm?AWSAccessKeyId=testing&Signature=vs2LuUmciQmiEuWKzcMYMTE%2FXYU%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -325,7 +325,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-14.dcm?AWSAccessKeyId=testing&Signature=eydw2Y%2BOEPxPIAGonIKft5ST1Ok%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-14.dcm?AWSAccessKeyId=testing&Signature=eydw2Y%2BOEPxPIAGonIKft5ST1Ok%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -348,7 +348,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-15.dcm?AWSAccessKeyId=testing&Signature=KhvmxnGzzXwcTMJfxkvI%2F9wbCsg%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-15.dcm?AWSAccessKeyId=testing&Signature=KhvmxnGzzXwcTMJfxkvI%2F9wbCsg%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -371,7 +371,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-16.dcm?AWSAccessKeyId=testing&Signature=x4RO3LfwHOA92q7GcyyHm1121vw%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-16.dcm?AWSAccessKeyId=testing&Signature=x4RO3LfwHOA92q7GcyyHm1121vw%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -394,7 +394,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-17.dcm?AWSAccessKeyId=testing&Signature=B0BjDYsL5h0TuH4f%2BeCIed1evd8%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-17.dcm?AWSAccessKeyId=testing&Signature=B0BjDYsL5h0TuH4f%2BeCIed1evd8%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -417,7 +417,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-18.dcm?AWSAccessKeyId=testing&Signature=BTaxrgGIvREB70frMH%2FcSe4v6PM%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-18.dcm?AWSAccessKeyId=testing&Signature=BTaxrgGIvREB70frMH%2FcSe4v6PM%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -440,7 +440,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-19.dcm?AWSAccessKeyId=testing&Signature=mA5%2BC%2FuIc2uBhBL8mcMgmzwYFks%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-19.dcm?AWSAccessKeyId=testing&Signature=mA5%2BC%2FuIc2uBhBL8mcMgmzwYFks%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -463,7 +463,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-20.dcm?AWSAccessKeyId=testing&Signature=T5avwAd6nEuFCi7Pxv4ctHNOto4%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-20.dcm?AWSAccessKeyId=testing&Signature=T5avwAd6nEuFCi7Pxv4ctHNOto4%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -486,7 +486,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-21.dcm?AWSAccessKeyId=testing&Signature=lvezcvysK3dYKflc22xuIFLlmk4%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-21.dcm?AWSAccessKeyId=testing&Signature=lvezcvysK3dYKflc22xuIFLlmk4%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -509,7 +509,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-22.dcm?AWSAccessKeyId=testing&Signature=7khkWR2C2bYTGFdfzFO4Vcx57nA%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-22.dcm?AWSAccessKeyId=testing&Signature=7khkWR2C2bYTGFdfzFO4Vcx57nA%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -532,7 +532,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-23.dcm?AWSAccessKeyId=testing&Signature=GaiMCEhSUMwcJnYo2Xv7kWSzL4k%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-23.dcm?AWSAccessKeyId=testing&Signature=GaiMCEhSUMwcJnYo2Xv7kWSzL4k%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -555,7 +555,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-24.dcm?AWSAccessKeyId=testing&Signature=9RaUQvQ6uQjkEAyh8z1aRRoN%2BY0%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-24.dcm?AWSAccessKeyId=testing&Signature=9RaUQvQ6uQjkEAyh8z1aRRoN%2BY0%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -578,7 +578,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-25.dcm?AWSAccessKeyId=testing&Signature=pGw6UT6zRHI2UAGVUpSKHcx2hMI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-25.dcm?AWSAccessKeyId=testing&Signature=pGw6UT6zRHI2UAGVUpSKHcx2hMI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -601,7 +601,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-26.dcm?AWSAccessKeyId=testing&Signature=gg%2FJtapJHiOTBB5qPBX3Mm%2FyIds%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-26.dcm?AWSAccessKeyId=testing&Signature=gg%2FJtapJHiOTBB5qPBX3Mm%2FyIds%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -624,7 +624,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-27.dcm?AWSAccessKeyId=testing&Signature=oaJ9TwwueL%2Fab%2Fw6sucOTBBTokM%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-27.dcm?AWSAccessKeyId=testing&Signature=oaJ9TwwueL%2Fab%2Fw6sucOTBBTokM%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -647,7 +647,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-28.dcm?AWSAccessKeyId=testing&Signature=HRVSbRf03Jzbs5MveHOe4JR%2FnCk%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-28.dcm?AWSAccessKeyId=testing&Signature=HRVSbRf03Jzbs5MveHOe4JR%2FnCk%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -670,7 +670,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-29.dcm?AWSAccessKeyId=testing&Signature=iZues3yrXuJvfNvwCLAiRfGHYxQ%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-29.dcm?AWSAccessKeyId=testing&Signature=iZues3yrXuJvfNvwCLAiRfGHYxQ%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -693,7 +693,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-30.dcm?AWSAccessKeyId=testing&Signature=%2BvtvcY4E99hL6mLyH2Bx3KXbki0%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-30.dcm?AWSAccessKeyId=testing&Signature=%2BvtvcY4E99hL6mLyH2Bx3KXbki0%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -716,7 +716,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-31.dcm?AWSAccessKeyId=testing&Signature=BZQhuTo7%2Bvq%2Be0VDerriKd3334Q%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-31.dcm?AWSAccessKeyId=testing&Signature=BZQhuTo7%2Bvq%2Be0VDerriKd3334Q%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -739,7 +739,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-32.dcm?AWSAccessKeyId=testing&Signature=WsdSZnaVcn%2Fvs7VV0DI2RfIBKVA%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-32.dcm?AWSAccessKeyId=testing&Signature=WsdSZnaVcn%2Fvs7VV0DI2RfIBKVA%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -762,7 +762,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-33.dcm?AWSAccessKeyId=testing&Signature=eleBsAnTa0t6LRMqp94sqp1TjLc%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-33.dcm?AWSAccessKeyId=testing&Signature=eleBsAnTa0t6LRMqp94sqp1TjLc%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -785,7 +785,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-34.dcm?AWSAccessKeyId=testing&Signature=jL%2F1fQgJPHq7asRKdSpt%2BT4ovOk%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-34.dcm?AWSAccessKeyId=testing&Signature=jL%2F1fQgJPHq7asRKdSpt%2BT4ovOk%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -808,7 +808,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-35.dcm?AWSAccessKeyId=testing&Signature=e%2BQsnx5rC5TTfb1dq7U9NfR3KOI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-35.dcm?AWSAccessKeyId=testing&Signature=e%2BQsnx5rC5TTfb1dq7U9NfR3KOI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -831,7 +831,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-36.dcm?AWSAccessKeyId=testing&Signature=2WVPTbmb3G61Bw%2FJfyzJt75cUlk%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-36.dcm?AWSAccessKeyId=testing&Signature=2WVPTbmb3G61Bw%2FJfyzJt75cUlk%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -854,7 +854,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-37.dcm?AWSAccessKeyId=testing&Signature=G%2F7kA3yWkoZ7POcn9W3j92tOCh0%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-37.dcm?AWSAccessKeyId=testing&Signature=G%2F7kA3yWkoZ7POcn9W3j92tOCh0%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -877,7 +877,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-38.dcm?AWSAccessKeyId=testing&Signature=9zFoXtclffgDVcuEJ%2BBW%2F3N2Vjo%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-38.dcm?AWSAccessKeyId=testing&Signature=9zFoXtclffgDVcuEJ%2BBW%2F3N2Vjo%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -900,7 +900,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-39.dcm?AWSAccessKeyId=testing&Signature=sxFGfW0Yq20uQVOVf8KxJHBUSTY%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-39.dcm?AWSAccessKeyId=testing&Signature=sxFGfW0Yq20uQVOVf8KxJHBUSTY%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -923,7 +923,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-40.dcm?AWSAccessKeyId=testing&Signature=M2Td32jxTX8d%2FRtevokOXA2%2F008%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-40.dcm?AWSAccessKeyId=testing&Signature=M2Td32jxTX8d%2FRtevokOXA2%2F008%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -946,7 +946,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-41.dcm?AWSAccessKeyId=testing&Signature=BzgAHOuIaAlOu0vhaP7rGDCiklM%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-41.dcm?AWSAccessKeyId=testing&Signature=BzgAHOuIaAlOu0vhaP7rGDCiklM%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -969,7 +969,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-42.dcm?AWSAccessKeyId=testing&Signature=Le9h1YYgll2JTTqJeavygQUhdJI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-42.dcm?AWSAccessKeyId=testing&Signature=Le9h1YYgll2JTTqJeavygQUhdJI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -992,7 +992,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-43.dcm?AWSAccessKeyId=testing&Signature=8cwdA33MQWVBOUo0QT6cWgO9Hlc%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-43.dcm?AWSAccessKeyId=testing&Signature=8cwdA33MQWVBOUo0QT6cWgO9Hlc%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1015,7 +1015,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-44.dcm?AWSAccessKeyId=testing&Signature=mwqtjHP6f9Xdb%2FkFhhIG1a9GE4s%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-44.dcm?AWSAccessKeyId=testing&Signature=mwqtjHP6f9Xdb%2FkFhhIG1a9GE4s%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1038,7 +1038,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-45.dcm?AWSAccessKeyId=testing&Signature=Tgd%2Fo6waIDnx7agS3wVM6oqOuXE%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-45.dcm?AWSAccessKeyId=testing&Signature=Tgd%2Fo6waIDnx7agS3wVM6oqOuXE%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1061,7 +1061,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-46.dcm?AWSAccessKeyId=testing&Signature=ZGi%2FPmhN0AWIaOkh3xggtpQe714%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-46.dcm?AWSAccessKeyId=testing&Signature=ZGi%2FPmhN0AWIaOkh3xggtpQe714%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1084,7 +1084,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-47.dcm?AWSAccessKeyId=testing&Signature=tKp961%2BetkVBkxUAzmqc7E20pZE%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-47.dcm?AWSAccessKeyId=testing&Signature=tKp961%2BetkVBkxUAzmqc7E20pZE%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1107,7 +1107,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-48.dcm?AWSAccessKeyId=testing&Signature=TKK%2Fm6dJD7dC3W13TQ4BkCSsHi8%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-48.dcm?AWSAccessKeyId=testing&Signature=TKK%2Fm6dJD7dC3W13TQ4BkCSsHi8%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1130,7 +1130,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-49.dcm?AWSAccessKeyId=testing&Signature=4YzwqA%2BAVks64ZrO6h9UvijjEYU%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-49.dcm?AWSAccessKeyId=testing&Signature=4YzwqA%2BAVks64ZrO6h9UvijjEYU%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1153,7 +1153,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-50.dcm?AWSAccessKeyId=testing&Signature=gPm%2BOyhTloDlrtPd5vULy1GbaHM%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-50.dcm?AWSAccessKeyId=testing&Signature=gPm%2BOyhTloDlrtPd5vULy1GbaHM%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1176,7 +1176,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-51.dcm?AWSAccessKeyId=testing&Signature=eQepBT3PFNAx4ZXI%2BBSKKHqTk9g%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-51.dcm?AWSAccessKeyId=testing&Signature=eQepBT3PFNAx4ZXI%2BBSKKHqTk9g%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1199,7 +1199,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-52.dcm?AWSAccessKeyId=testing&Signature=bJaU89ildPPSJpRKlDhK%2Fc0TANM%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-52.dcm?AWSAccessKeyId=testing&Signature=bJaU89ildPPSJpRKlDhK%2Fc0TANM%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1222,7 +1222,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-53.dcm?AWSAccessKeyId=testing&Signature=V4A5Wg1o2HtHUdnN7JW2fShgKDA%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-53.dcm?AWSAccessKeyId=testing&Signature=V4A5Wg1o2HtHUdnN7JW2fShgKDA%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1245,7 +1245,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-54.dcm?AWSAccessKeyId=testing&Signature=cuOkkHC2AgEt5i%2BARWzppdYQgv0%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-54.dcm?AWSAccessKeyId=testing&Signature=cuOkkHC2AgEt5i%2BARWzppdYQgv0%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1268,7 +1268,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-55.dcm?AWSAccessKeyId=testing&Signature=vHKkJ%2FTFpjykGxvfpVxY2s3dgvQ%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-55.dcm?AWSAccessKeyId=testing&Signature=vHKkJ%2FTFpjykGxvfpVxY2s3dgvQ%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1291,7 +1291,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-56.dcm?AWSAccessKeyId=testing&Signature=R79kdx2XprITwYWsZ0r6AfR2Ojs%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-56.dcm?AWSAccessKeyId=testing&Signature=R79kdx2XprITwYWsZ0r6AfR2Ojs%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1314,7 +1314,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-57.dcm?AWSAccessKeyId=testing&Signature=OhGy5zNRb9YL1okOEF8qYdT1ZVA%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-57.dcm?AWSAccessKeyId=testing&Signature=OhGy5zNRb9YL1okOEF8qYdT1ZVA%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1337,7 +1337,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-58.dcm?AWSAccessKeyId=testing&Signature=M6sbWn8WHKvx9ksteg3J3E42rTk%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-58.dcm?AWSAccessKeyId=testing&Signature=M6sbWn8WHKvx9ksteg3J3E42rTk%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1360,7 +1360,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-59.dcm?AWSAccessKeyId=testing&Signature=hRQpS01pAWKlwQeAAoGfMsU5qc4%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-59.dcm?AWSAccessKeyId=testing&Signature=hRQpS01pAWKlwQeAAoGfMsU5qc4%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1383,7 +1383,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-60.dcm?AWSAccessKeyId=testing&Signature=qOA%2FcShWk4uVFKTLaEHtwVkQI0A%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-60.dcm?AWSAccessKeyId=testing&Signature=qOA%2FcShWk4uVFKTLaEHtwVkQI0A%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1406,7 +1406,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-61.dcm?AWSAccessKeyId=testing&Signature=2b9LqTRYakyRhNfPtc%2BP7WNTga4%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-61.dcm?AWSAccessKeyId=testing&Signature=2b9LqTRYakyRhNfPtc%2BP7WNTga4%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1429,7 +1429,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-62.dcm?AWSAccessKeyId=testing&Signature=7XDulwuWk2oAQKLg9pPkdT4TyCQ%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-62.dcm?AWSAccessKeyId=testing&Signature=7XDulwuWk2oAQKLg9pPkdT4TyCQ%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1452,7 +1452,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-63.dcm?AWSAccessKeyId=testing&Signature=U4RCyPp7ZqbE7DT2Vn4YM%2Fi94I0%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-63.dcm?AWSAccessKeyId=testing&Signature=U4RCyPp7ZqbE7DT2Vn4YM%2Fi94I0%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1475,7 +1475,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-64.dcm?AWSAccessKeyId=testing&Signature=BOp%2FJN1L8%2BNkUmHqc8DLXMRVVeI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-64.dcm?AWSAccessKeyId=testing&Signature=BOp%2FJN1L8%2BNkUmHqc8DLXMRVVeI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1498,7 +1498,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-65.dcm?AWSAccessKeyId=testing&Signature=In2R2OQ1sOtj4VMwFk%2B8VuYYpX0%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-65.dcm?AWSAccessKeyId=testing&Signature=In2R2OQ1sOtj4VMwFk%2B8VuYYpX0%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1521,7 +1521,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-66.dcm?AWSAccessKeyId=testing&Signature=yckPdodXciJh0hGiSqXMad5HxbE%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-66.dcm?AWSAccessKeyId=testing&Signature=yckPdodXciJh0hGiSqXMad5HxbE%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1544,7 +1544,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-67.dcm?AWSAccessKeyId=testing&Signature=5ja9l9ImQILjg8g1S%2BUERwhATwQ%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-67.dcm?AWSAccessKeyId=testing&Signature=5ja9l9ImQILjg8g1S%2BUERwhATwQ%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1567,7 +1567,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-68.dcm?AWSAccessKeyId=testing&Signature=zcXAY0A4hUceMueonjBuVKADOb8%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-68.dcm?AWSAccessKeyId=testing&Signature=zcXAY0A4hUceMueonjBuVKADOb8%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1590,7 +1590,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-69.dcm?AWSAccessKeyId=testing&Signature=iH1QEmljygxiri6wVZlk22fA3Tk%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-69.dcm?AWSAccessKeyId=testing&Signature=iH1QEmljygxiri6wVZlk22fA3Tk%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1613,7 +1613,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-70.dcm?AWSAccessKeyId=testing&Signature=VYtFet7JSxBC3xFOho5brs%2BaXMA%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-70.dcm?AWSAccessKeyId=testing&Signature=VYtFet7JSxBC3xFOho5brs%2BaXMA%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1636,7 +1636,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-71.dcm?AWSAccessKeyId=testing&Signature=KCXvYmadq4NqgwdWHntEW1Rc5Iw%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-71.dcm?AWSAccessKeyId=testing&Signature=KCXvYmadq4NqgwdWHntEW1Rc5Iw%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1659,7 +1659,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-72.dcm?AWSAccessKeyId=testing&Signature=dlTnDKLUXu0%2BVpPQo1oXTWMAfSc%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-72.dcm?AWSAccessKeyId=testing&Signature=dlTnDKLUXu0%2BVpPQo1oXTWMAfSc%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1682,7 +1682,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-73.dcm?AWSAccessKeyId=testing&Signature=01S4qSpOea%2FZD4E5Kz1DQQ8eA78%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-73.dcm?AWSAccessKeyId=testing&Signature=01S4qSpOea%2FZD4E5Kz1DQQ8eA78%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1705,7 +1705,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-74.dcm?AWSAccessKeyId=testing&Signature=AN82LAiQcXvnHyRsnwHdZMuMIAI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-74.dcm?AWSAccessKeyId=testing&Signature=AN82LAiQcXvnHyRsnwHdZMuMIAI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1728,7 +1728,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-75.dcm?AWSAccessKeyId=testing&Signature=uAbiNL9FfZ9ohjklSskI9aZeozE%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-75.dcm?AWSAccessKeyId=testing&Signature=uAbiNL9FfZ9ohjklSskI9aZeozE%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1751,7 +1751,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-76.dcm?AWSAccessKeyId=testing&Signature=JIXdxi2oMJSCFJSHFVShrnle11k%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-76.dcm?AWSAccessKeyId=testing&Signature=JIXdxi2oMJSCFJSHFVShrnle11k%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1774,7 +1774,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-77.dcm?AWSAccessKeyId=testing&Signature=e3LKUJel3zub4uorwpSdHrbsvyM%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-77.dcm?AWSAccessKeyId=testing&Signature=e3LKUJel3zub4uorwpSdHrbsvyM%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1797,7 +1797,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-78.dcm?AWSAccessKeyId=testing&Signature=MaSt9P%2FGzuOuXhQNbAkDhqqdlfQ%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-78.dcm?AWSAccessKeyId=testing&Signature=MaSt9P%2FGzuOuXhQNbAkDhqqdlfQ%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1820,7 +1820,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-79.dcm?AWSAccessKeyId=testing&Signature=wekjIj3A8VddF1i7A7YnC53OrEU%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-79.dcm?AWSAccessKeyId=testing&Signature=wekjIj3A8VddF1i7A7YnC53OrEU%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1843,7 +1843,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-80.dcm?AWSAccessKeyId=testing&Signature=jFBDfOp5oLuy1vRxn8WOhGqLtVU%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-80.dcm?AWSAccessKeyId=testing&Signature=jFBDfOp5oLuy1vRxn8WOhGqLtVU%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1866,7 +1866,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-81.dcm?AWSAccessKeyId=testing&Signature=jGpm57PPWwRd%2Fr8WQwV%2B0qRsXQI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-81.dcm?AWSAccessKeyId=testing&Signature=jGpm57PPWwRd%2Fr8WQwV%2B0qRsXQI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1889,7 +1889,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-82.dcm?AWSAccessKeyId=testing&Signature=MBJ5QDSnRF%2BMTXvv%2BNahqyHAlyc%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-82.dcm?AWSAccessKeyId=testing&Signature=MBJ5QDSnRF%2BMTXvv%2BNahqyHAlyc%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1912,7 +1912,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-83.dcm?AWSAccessKeyId=testing&Signature=Wv0IcOa5s5k5o6pEdJR95owY3PQ%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-83.dcm?AWSAccessKeyId=testing&Signature=Wv0IcOa5s5k5o6pEdJR95owY3PQ%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1935,7 +1935,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-84.dcm?AWSAccessKeyId=testing&Signature=w5Kh9kJYc3LK4zWMvXHD%2BYd52FI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-84.dcm?AWSAccessKeyId=testing&Signature=w5Kh9kJYc3LK4zWMvXHD%2BYd52FI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1958,7 +1958,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-85.dcm?AWSAccessKeyId=testing&Signature=iOCfR0RpGMCHdPcc6H%2BMm61HkLU%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-85.dcm?AWSAccessKeyId=testing&Signature=iOCfR0RpGMCHdPcc6H%2BMm61HkLU%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -1981,7 +1981,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-86.dcm?AWSAccessKeyId=testing&Signature=hnI2hUfp0gfoDvUCBiaLny8Wkok%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-86.dcm?AWSAccessKeyId=testing&Signature=hnI2hUfp0gfoDvUCBiaLny8Wkok%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2004,7 +2004,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-87.dcm?AWSAccessKeyId=testing&Signature=9IC2ap1Cp8ZC5tXJeDPiRRzOkWs%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-87.dcm?AWSAccessKeyId=testing&Signature=9IC2ap1Cp8ZC5tXJeDPiRRzOkWs%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2027,7 +2027,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-88.dcm?AWSAccessKeyId=testing&Signature=51Ue6%2FrjJV4Fe7uaVZzgwFWl4GM%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-88.dcm?AWSAccessKeyId=testing&Signature=51Ue6%2FrjJV4Fe7uaVZzgwFWl4GM%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2050,7 +2050,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-89.dcm?AWSAccessKeyId=testing&Signature=nfgT%2B34CxNksxLZh%2BNIfuNXngBc%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-89.dcm?AWSAccessKeyId=testing&Signature=nfgT%2B34CxNksxLZh%2BNIfuNXngBc%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2073,7 +2073,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-90.dcm?AWSAccessKeyId=testing&Signature=yh7M6xW69hzFhdcuX6D%2B3JIpWSE%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-90.dcm?AWSAccessKeyId=testing&Signature=yh7M6xW69hzFhdcuX6D%2B3JIpWSE%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2096,7 +2096,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-91.dcm?AWSAccessKeyId=testing&Signature=I7UXsCnFfzVygercDceTYX9PUsc%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-91.dcm?AWSAccessKeyId=testing&Signature=I7UXsCnFfzVygercDceTYX9PUsc%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2119,7 +2119,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-92.dcm?AWSAccessKeyId=testing&Signature=FIsegI%2FjFQRVRK5gW9Ivqjlg66E%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-92.dcm?AWSAccessKeyId=testing&Signature=FIsegI%2FjFQRVRK5gW9Ivqjlg66E%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2142,7 +2142,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-93.dcm?AWSAccessKeyId=testing&Signature=TrrqyQlEK9ox4jn%2BaSlAOyIYE6Q%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-93.dcm?AWSAccessKeyId=testing&Signature=TrrqyQlEK9ox4jn%2BaSlAOyIYE6Q%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2165,7 +2165,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-94.dcm?AWSAccessKeyId=testing&Signature=5LGuNiW80fs11rKbZ7e6HIdoB2s%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-94.dcm?AWSAccessKeyId=testing&Signature=5LGuNiW80fs11rKbZ7e6HIdoB2s%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2188,7 +2188,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-95.dcm?AWSAccessKeyId=testing&Signature=4sb17dBMyl4rj%2FqnjkvdG1xk0Xk%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-95.dcm?AWSAccessKeyId=testing&Signature=4sb17dBMyl4rj%2FqnjkvdG1xk0Xk%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2211,7 +2211,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-96.dcm?AWSAccessKeyId=testing&Signature=JJbZLRc%2BdIM74wU3pO8SrIKy4bI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-96.dcm?AWSAccessKeyId=testing&Signature=JJbZLRc%2BdIM74wU3pO8SrIKy4bI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2234,7 +2234,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-97.dcm?AWSAccessKeyId=testing&Signature=1b1BceOK1EcEzviUkBnWfOQAVxI%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-97.dcm?AWSAccessKeyId=testing&Signature=1b1BceOK1EcEzviUkBnWfOQAVxI%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2257,7 +2257,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-98.dcm?AWSAccessKeyId=testing&Signature=BEXolpc4yw5ieq4slS6PvBbjE6I%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-98.dcm?AWSAccessKeyId=testing&Signature=BEXolpc4yw5ieq4slS6PvBbjE6I%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2280,7 +2280,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-99.dcm?AWSAccessKeyId=testing&Signature=bKcTwVKXroaVyCFHAiWPBoeszUU%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-99.dcm?AWSAccessKeyId=testing&Signature=bKcTwVKXroaVyCFHAiWPBoeszUU%3D&x-amz-security-token=testing&Expires=1635976800"
     },
     {
       "created_by": "test-user",
@@ -2303,7 +2303,7 @@
         }
       ],
       "uploaded_timestamp": 1635926694,
-      "url": "http://localhost:4569/some-bucket/archive/2021/11/03/19-06-%7Bid%7D/sample-100.dcm?AWSAccessKeyId=testing&Signature=wtDq1XY9u1eAV6W9QHktZiob5r0%3D&x-amz-security-token=testing&Expires=1635976800"
+      "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-100.dcm?AWSAccessKeyId=testing&Signature=wtDq1XY9u1eAV6W9QHktZiob5r0%3D&x-amz-security-token=testing&Expires=1635976800"
     }
   ]
 }
