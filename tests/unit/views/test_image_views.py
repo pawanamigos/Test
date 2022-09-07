@@ -54,13 +54,15 @@ def test_images(db_session: Session, snapshot):
 
     with Client(app) as client:
         response = client.http.get("/v1/images").json_body
-        assert response["meta"] is not None
+        assert response.get("meta") is not None
+        print(type(response))
+
 
         dict_assert(response, snapshot, "page-1")
         # get second page
         response = client.http.get("/v1/images?page=1").json_body
         dict_assert(response, snapshot, "page-2")
-        assert response["meta"] is not None
+        assert response.get("meta") is not None
 
 
 @freeze_time("2021-11-03 21:00:00")

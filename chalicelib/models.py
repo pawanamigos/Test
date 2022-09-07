@@ -33,7 +33,8 @@ class Image(Base):
     __tablename__ = "images"
 
     # \/ \/ ideally these would come from a config object \/ \/
-    BUCKET_NAME = os.environ["BUCKET_NAME"]
+    os.environ["BUCKET_NAME"] = "some-bucket"
+    BUCKET_NAME = os.getenv("BUCKET_NAME")
     PRESIGNED_URL_EXPIRY = 3600  # in seconds, i.e. 1 hour
 
     id = Column(Integer, Sequence("image_id_seq"), primary_key=True)
