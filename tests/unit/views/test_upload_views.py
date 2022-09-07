@@ -11,16 +11,16 @@ from mypy_boto3_s3.service_resource import Bucket
 from sqlalchemy.orm.session import Session
 
 from app import app
-from chalicelib.models import Image
+from chalicelib.models import Image, s3_endpoint
 from tests.helpers import dict_assert
 
 
 @pytest.fixture
 def bucket(mocker) -> Bucket:
     s3 = boto3.resource(
-        "s3", endpoint_url=os.environ["S3_ENDPOINT"], region_name="us-east-1"
+        "s3", endpoint_url=s3_endpoint(), region_name="ap-southeast-2"
     )
-    bucket_name = "the-bucket"
+    bucket_name = "some-bucket"
     mocker.patch(
         "chalicelib.models.Image.BUCKET_NAME",
         bucket_name,
