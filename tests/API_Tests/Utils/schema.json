@@ -1,0 +1,156 @@
+
+=  {
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "default": {},
+    "title": "Root Schema",
+    "required": [
+        "created_by",
+        "created_timestamp",
+        "filename",
+        "id",
+        "size",
+        "tags",
+        "uploaded_timestamp",
+        "url"
+    ],
+    "properties": {
+        "created_by": {
+            "type": "string",
+            "default": "",
+            "title": "The created_by Schema",
+            "examples": [
+                "test-user"
+            ]
+        },
+        "created_timestamp": {
+            "type": "integer",
+            "default": 0,
+            "title": "The created_timestamp Schema",
+            "examples": [
+                1635926694
+            ]
+        },
+        "filename": {
+            "type": "string",
+            "default": "",
+            "title": "The filename Schema",
+            "examples": [
+                "sample-99.dcm"
+            ]
+        },
+        "id": {
+            "type": "integer",
+            "default": 0,
+            "title": "The id Schema",
+            "examples": [
+                99
+            ]
+        },
+        "size": {
+            "type": "integer",
+            "default": 0,
+            "title": "The size Schema",
+            "examples": [
+                256000
+            ]
+        },
+        "tags": {
+            "type": "array",
+            "default": [],
+            "title": "The tags Schema",
+            "items": {
+                "type": "object",
+                "title": "A Schema",
+                "required": [
+                    "id",
+                    "name"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "title": "The id Schema",
+                        "examples": [
+                            1,
+                            2,
+                            3
+                        ]
+                    },
+                    "name": {
+                        "type": "string",
+                        "title": "The name Schema",
+                        "examples": [
+                            "foo",
+                            "bar",
+                            "baz"
+                        ]
+                    }
+                },
+                "examples": [{
+                    "id": 1,
+                    "name": "foo"
+                },
+                {
+                    "id": 2,
+                    "name": "bar"
+                },
+                {
+                    "id": 3,
+                    "name": "baz"
+                }]
+            },
+            "examples": [
+                [{
+                    "id": 1,
+                    "name": "foo"
+                },
+                {
+                    "id": 2,
+                    "name": "bar"
+                },
+                {
+                    "id": 3,
+                    "name": "baz"
+                }]
+            ]
+        },
+        "uploaded_timestamp": {
+            "type": "integer",
+            "default": 0,
+            "title": "The uploaded_timestamp Schema",
+            "examples": [
+                1635926694
+            ]
+        },
+        "url": {
+            "type": "string",
+            "default": "",
+            "title": "The url Schema",
+            "examples": [
+                "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-99.dcm?AWSAccessKeyId=testing\u0026Signature=bKcTwVKXroaVyCFHAiWPBoeszUU%3D\u0026x-amz-security-token=testing\u0026Expires=1635976800"
+            ]
+        }
+    },
+    "examples": [{
+        "created_by": "test-user",
+        "created_timestamp": 1635926694,
+        "filename": "sample-99.dcm",
+        "id": 99,
+        "size": 256000,
+        "tags": [{
+            "id": 1,
+            "name": "foo"
+        },
+        {
+            "id": 2,
+            "name": "bar"
+        },
+        {
+            "id": 3,
+            "name": "baz"
+        }],
+        "uploaded_timestamp": 1635926694,
+        "url": "https://some-bucket.s3.amazonaws.com/archive/2021/11/03/19-06-%7Bid%7D/sample-99.dcm?AWSAccessKeyId=testing\u0026Signature=bKcTwVKXroaVyCFHAiWPBoeszUU%3D\u0026x-amz-security-token=testing\u0026Expires=1635976800"
+    }]
+}
