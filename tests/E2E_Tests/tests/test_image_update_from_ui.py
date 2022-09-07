@@ -2,6 +2,7 @@ from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 import time
 
+#Since I coulkd not get the server running and cannot access the webpage, I have detaled the process I would follow to create E2E tests with placehlders for element locators.
 page_url = ""
 add_image_locator = ""
 image_id_locator = ""
