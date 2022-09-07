@@ -10,6 +10,9 @@ Prerequisites:
 - [pyenv](https://github.com/pyenv/pyenv)
 - [Poetry](https://python-poetry.org/docs/#osx--linux--bashonwindows-install-instructions)
 
+Note: On windows environmemnt, follow this link to install direnv and bind it to git bash.
+https://github.com/direnv/direnv/issues/343
+
 For running locally & testing:
 
 - [docker](https://docs.docker.com/get-docker/) & [docker-compose](https://docs.docker.com/compose/install/)
@@ -18,7 +21,7 @@ Create your virtualenv, activate and install dependencies:
 
 ```shell
 cp .envrc.example .envrc
-direnv allow
+direnv allow  //On windows run this on git bash in case it is not binded to powershell
 pyenv install
 poetry install
 # ready fakes3 and postgres docker images
