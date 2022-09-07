@@ -11,6 +11,7 @@ urllib3.disable_warnings()
 """Converting Images to be uploaded to Base 64 and to String for Json payload"""
 
 
+#Currently not using this utility. This could be used to diretcly genarate a json payload to update the image. This could be modified to add fille name and tags to create a json payload and can directly post to the endpoint for updating images
 def convert_images():
     os.chdir(r'C:\Users\Pawan\PycharmProjects\tagged-image-manager-challenge-main\tests\API_Tests\Test_Files')
     for image in os.listdir(r'C:\Users\Pawan\PycharmProjects\tagged-image-manager-challenge-main\tests\API_Tests\Test_Files'):
