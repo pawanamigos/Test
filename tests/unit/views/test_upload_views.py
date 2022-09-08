@@ -18,7 +18,7 @@ from tests.helpers import dict_assert
 @pytest.fixture
 def bucket(mocker) -> Bucket:
     s3 = boto3.resource(
-        "s3", endpoint_url=s3_endpoint(), region_name="ap-southeast-2"
+        "s3", endpoint_url="http://localhost:4569", region_name="ap-southeast-2"
     )
     bucket_name = "some-bucket"
     mocker.patch(
@@ -28,7 +28,7 @@ def bucket(mocker) -> Bucket:
     return s3.create_bucket(Bucket=bucket_name)
 
 
-@freeze_time("2021-11-03 21:00:00")
+@freeze_time("2022-09-08 13:34:00")
 def test_upload(bucket: Bucket, db_session: Session, snapshot):
     image_data = Path("tests/samples/image-00000.dcm").read_bytes()
     image_b64_bytes = base64.b64encode(image_data)
@@ -45,8 +45,9 @@ def test_upload(bucket: Bucket, db_session: Session, snapshot):
                     "tags": ["foo", "bar"],
                 }
             ),
-        ).json_body
-        actual_tags = [t["name"] for t in response["tags"]]
+        )
+        print(response.json_body)
+        actual_tags = [t["name"] for t in response.get("tags")]
         assert "bar" in actual_tags
         assert "foo" in actual_tags
 
