@@ -14,11 +14,13 @@ from app import app
 from chalicelib.models import Image, s3_endpoint
 from tests.helpers import dict_assert
 
+os.environ["AWS_ACCESS_KEY_ID"] = "testing"
+os.environ["AWS_SECRET_ACCESS_KEY"] = "testing"
 
 @pytest.fixture
 def bucket(mocker) -> Bucket:
     s3 = boto3.resource(
-        "s3", endpoint_url="http://localhost:4569", region_name="ap-southeast-2"
+        "s3", endpoint_url=s3_endpoint(), aws_access_key_id="testing", aws_secret_access_key="testing", aws_session_token="testing"
     )
     bucket_name = "some-bucket"
     mocker.patch(
